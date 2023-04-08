@@ -1,0 +1,25 @@
+Git es un sistema de control de versiones que permite a los desarrolladores colaborar en proyectos de software. A continuación, se presentan algunos comandos básicos de Git:
+
+    git init: Inicializa un repositorio de Git en un directorio vacío o existente.
+
+    git add <file>: Agrega un archivo al área de preparación (staging area) para ser incluido en el próximo commit.
+
+    git commit -m "Mensaje de commit": Crea un nuevo commit con los cambios agregados al área de preparación, incluyendo un mensaje descriptivo.
+
+    git status: Muestra el estado actual del repositorio, incluyendo los archivos modificados, agregados y eliminados.
+
+    git log: Muestra una lista de todos los commits realizados en el repositorio.
+
+    git branch: Muestra una lista de todas las ramas en el repositorio.
+
+    git checkout <branch>: Cambia a la rama especificada.
+
+    git merge <branch>: Fusiona la rama especificada con la rama actual.
+
+    git clone <url>: Crea una copia local de un repositorio remoto.
+
+    git push: Envía los cambios locales al repositorio remoto.
+
+    git pull: Obtiene los cambios del repositorio remoto y los fusiona con los cambios locales.
+
+Estos son solo algunos de los muchos comandos disponibles en Git. Se recomienda revisar la documentación de Git para obtener una comprensión más completa de su funcionamiento.
